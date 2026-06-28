@@ -1,3 +1,5 @@
 File 3 content
 File 3 2nd line updated
 File 3 3rd line updated from git terminal
+File 3 updated again
+
